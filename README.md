@@ -8,6 +8,6 @@ Julkaisija: https://github.com/esx-community/esx_scoreboard
 
 ## Credits
 
-- Stadus, original resource
-- LifeGoal, design
-- Hawaii, re-wrote the resource
+* Scripti: Stadus
+* Design: LifeGoal
+* Uudelleen teki: Hawaii
