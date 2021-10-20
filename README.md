@@ -2,7 +2,7 @@
 
 Aukee F5
 
-![Preview image](https://i.imgur.com/MzUKVec.png)
+![Preview image](https://i.imgur.com/ilWqcHk.png)
 
 ## Credits
 
