@@ -11,4 +11,4 @@ Julkaisija: https://github.com/esx-community/esx_scoreboard
 * Design: LifeGoal
 * Uudelleen teki: Hawaii
 * Muokkasin tästä: https://github.com/Stadus/Stadus_Scoreboard
-* Scripti: https://forum.cfx.re/t/release-esx-custom-scoreboard-with-jobs-online/84767
+* Scriptin tehny: https://forum.cfx.re/t/release-esx-custom-scoreboard-with-jobs-online/84767
