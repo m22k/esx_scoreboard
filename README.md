@@ -1,6 +1,6 @@
 # esx_scoreboard
 
-Aukee F5
+Aukee F5 - Näppäimen voi muokkaa esx_scoreboard\client\main.lua\93-IsControlJustReleased(0, 166)
 
 ![Preview image](https://i.imgur.com/ilWqcHk.png)
 
